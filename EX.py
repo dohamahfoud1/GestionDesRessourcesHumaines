@@ -1,0 +1,3 @@
+var="salam"
+print(var)
+
